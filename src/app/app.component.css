@@ -1,0 +1,148 @@
+.topnav {
+  background-color: rgb(243, 101, 101);
+  overflow: hidden;
+}
+
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+.topnav a:hover {
+  background-color: rgb(31, 24, 24);
+  color: black;
+}
+.button {
+  background-color: #922323fc; /* Green */
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {border-radius: 2px;}
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: rgb(22, 12, 12);
+  color: white;
+}
+.fcontainer{
+display:flex
+}
+.fitem-1{
+  width:50%
+
+}
+.fitem-2{
+  width:50%
+
+}
+.f1container{
+  display:flex
+}
+.f1{
+  
+  background-color:rgb(24, 16, 16);
+  color:white;
+  padding:2px;
+  margin:10px;
+  width:33%;
+  height:180px;;
+  align-items: baseline;
+  
+
+}
+.f2{
+   
+  background-color:rgb(24, 16, 16);
+  color:white;
+  padding:2px;
+  margin:10px;
+  width:33%;
+  height:180px;;
+  align-items: baseline;
+  
+
+}
+.f3{
+  
+  background-color:rgb(24, 16, 16);
+  color:white;
+  padding:2px;
+  margin:10px;
+  width:33%;
+  height:180px;
+  align-items: baseline;
+
+}
+.f2container{
+  display:flex;
+}
+.f11{
+  padding:2px;
+  margin:10px;
+  width:33%;
+  height:180px;;
+
+}
+.f12
+{
+  padding:2px;
+  margin:10px;
+  width:33%;
+  height:180px;;
+
+}
+.f13{
+  padding:2px;
+  margin:10px;
+  width:33%;
+  height:180px;;
+
+}
+.b1{
+  background-color:green;
+  display:flex;
+  align-items: center;
+  height:100px;
+}
+.button {
+  background-color: #040706; /* Green */
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+ 
+  margin: 4px 2px;
+  cursor: pointer;
+  
+}
+
+.button3 {
+  align-items: center;
+  border-radius: 8px;
+}
+.last{
+  display:flex;
+  background-color: black;
+  color: white;
+  margin:20px;
+
+}
+
+
